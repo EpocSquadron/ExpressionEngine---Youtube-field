@@ -6,13 +6,13 @@ A fieldtype for parsing Youtube links, grabbing the Youtube video ID and then al
 
 ###Simple Installation
 
-Simply copy the pi.surgeree.php file into a directory called surgeree inside the third_party folder of your ExpressionEngine installation.
+Simply copy the ft.youtube.php file into a directory called youtube inside the third_party folder of your ExpressionEngine installation.
 
 ###Fancy Installation (for git users)
 
 Make this repo into a submodule for your project's private ExpressionEngine git repo.
 
-	git submodule add git://github.com/dsurgeons/SurgerEE.git system/expressionengine/third_party/surgeree
+	git submodule add git://github.com/fideloper/ExpressionEngine---Youtube-field.git system/expressionengine/third_party/youtube
 
 For added flexiblity, fork this repo and make the submodule to your fork instead. Don't forget to submit pull requests after you've added stuff :).
 
